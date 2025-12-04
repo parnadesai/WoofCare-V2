@@ -22,7 +22,7 @@ import BottomNav from './components/BottomNav';
 import ReportingProgressBar from './components/ReportingProgressBar';
 
 // Initialize Gemini API
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: process.env.AIzaSyCWVrPjjEG8Xtv0u-V4OlLHtcqg7oVVbk8 });
 
 // --- Helper Functions ---
 
