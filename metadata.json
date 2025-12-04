@@ -1,0 +1,8 @@
+{
+  "name": "WoofCare v2",
+  "description": "A community-driven animal rescue platform with Vet AI diagnostics and real-time reporting.\nadded update activity in profile when an stray is reported",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
